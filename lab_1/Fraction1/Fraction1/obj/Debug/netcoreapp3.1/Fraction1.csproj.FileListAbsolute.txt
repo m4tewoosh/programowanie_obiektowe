@@ -1,0 +1,14 @@
+D:\Users\mateusz.nowak66\source\repos\Fraction1\Fraction1\obj\Debug\netcoreapp3.1\Fraction1.csproj.AssemblyReference.cache
+D:\Users\mateusz.nowak66\source\repos\Fraction1\Fraction1\obj\Debug\netcoreapp3.1\Fraction1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\mateusz.nowak66\source\repos\Fraction1\Fraction1\obj\Debug\netcoreapp3.1\Fraction1.AssemblyInfoInputs.cache
+D:\Users\mateusz.nowak66\source\repos\Fraction1\Fraction1\obj\Debug\netcoreapp3.1\Fraction1.AssemblyInfo.cs
+D:\Users\mateusz.nowak66\source\repos\Fraction1\Fraction1\obj\Debug\netcoreapp3.1\Fraction1.csproj.CoreCompileInputs.cache
+D:\Users\mateusz.nowak66\source\repos\Fraction1\Fraction1\bin\Debug\netcoreapp3.1\Fraction1.exe
+D:\Users\mateusz.nowak66\source\repos\Fraction1\Fraction1\bin\Debug\netcoreapp3.1\Fraction1.deps.json
+D:\Users\mateusz.nowak66\source\repos\Fraction1\Fraction1\bin\Debug\netcoreapp3.1\Fraction1.runtimeconfig.json
+D:\Users\mateusz.nowak66\source\repos\Fraction1\Fraction1\bin\Debug\netcoreapp3.1\Fraction1.runtimeconfig.dev.json
+D:\Users\mateusz.nowak66\source\repos\Fraction1\Fraction1\bin\Debug\netcoreapp3.1\Fraction1.dll
+D:\Users\mateusz.nowak66\source\repos\Fraction1\Fraction1\bin\Debug\netcoreapp3.1\Fraction1.pdb
+D:\Users\mateusz.nowak66\source\repos\Fraction1\Fraction1\obj\Debug\netcoreapp3.1\Fraction1.dll
+D:\Users\mateusz.nowak66\source\repos\Fraction1\Fraction1\obj\Debug\netcoreapp3.1\Fraction1.pdb
+D:\Users\mateusz.nowak66\source\repos\Fraction1\Fraction1\obj\Debug\netcoreapp3.1\Fraction1.genruntimeconfig.cache
