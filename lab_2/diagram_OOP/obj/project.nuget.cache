@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BJDPGcI2nTjYBtbLjQU1VyWEDRftZW79GOurvrwvPkL1VB2CVppVi+Rwq+KTVqSm+Th6CsMqEixVu51H5UvApg==",
+  "success": true,
+  "projectFilePath": "/Users/mateusznowak/Projects/diagram_OOP/diagram_OOP/diagram_OOP.csproj",
+  "expectedPackageFiles": [
+    "/Users/mateusznowak/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.21/microsoft.netcore.app.host.osx-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

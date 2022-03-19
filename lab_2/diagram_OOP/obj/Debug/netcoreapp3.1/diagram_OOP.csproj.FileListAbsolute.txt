@@ -1,0 +1,13 @@
+/Users/mateusznowak/Projects/diagram_OOP/diagram_OOP/bin/Debug/netcoreapp3.1/diagram_OOP.deps.json
+/Users/mateusznowak/Projects/diagram_OOP/diagram_OOP/bin/Debug/netcoreapp3.1/diagram_OOP.runtimeconfig.json
+/Users/mateusznowak/Projects/diagram_OOP/diagram_OOP/bin/Debug/netcoreapp3.1/diagram_OOP.runtimeconfig.dev.json
+/Users/mateusznowak/Projects/diagram_OOP/diagram_OOP/bin/Debug/netcoreapp3.1/diagram_OOP.dll
+/Users/mateusznowak/Projects/diagram_OOP/diagram_OOP/bin/Debug/netcoreapp3.1/diagram_OOP.pdb
+/Users/mateusznowak/Projects/diagram_OOP/diagram_OOP/obj/Debug/netcoreapp3.1/diagram_OOP.csproj.AssemblyReference.cache
+/Users/mateusznowak/Projects/diagram_OOP/diagram_OOP/obj/Debug/netcoreapp3.1/diagram_OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateusznowak/Projects/diagram_OOP/diagram_OOP/obj/Debug/netcoreapp3.1/diagram_OOP.AssemblyInfoInputs.cache
+/Users/mateusznowak/Projects/diagram_OOP/diagram_OOP/obj/Debug/netcoreapp3.1/diagram_OOP.AssemblyInfo.cs
+/Users/mateusznowak/Projects/diagram_OOP/diagram_OOP/obj/Debug/netcoreapp3.1/diagram_OOP.csproj.CoreCompileInputs.cache
+/Users/mateusznowak/Projects/diagram_OOP/diagram_OOP/obj/Debug/netcoreapp3.1/diagram_OOP.dll
+/Users/mateusznowak/Projects/diagram_OOP/diagram_OOP/obj/Debug/netcoreapp3.1/diagram_OOP.pdb
+/Users/mateusznowak/Projects/diagram_OOP/diagram_OOP/obj/Debug/netcoreapp3.1/diagram_OOP.genruntimeconfig.cache
