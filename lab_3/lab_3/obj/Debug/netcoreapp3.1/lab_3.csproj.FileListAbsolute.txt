@@ -1,0 +1,13 @@
+/Users/mateusznowak/Desktop/programowanie_obiektowe/lab_3/lab_3/obj/Debug/netcoreapp3.1/lab_3.csproj.AssemblyReference.cache
+/Users/mateusznowak/Desktop/programowanie_obiektowe/lab_3/lab_3/obj/Debug/netcoreapp3.1/lab_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateusznowak/Desktop/programowanie_obiektowe/lab_3/lab_3/obj/Debug/netcoreapp3.1/lab_3.AssemblyInfoInputs.cache
+/Users/mateusznowak/Desktop/programowanie_obiektowe/lab_3/lab_3/obj/Debug/netcoreapp3.1/lab_3.AssemblyInfo.cs
+/Users/mateusznowak/Desktop/programowanie_obiektowe/lab_3/lab_3/obj/Debug/netcoreapp3.1/lab_3.csproj.CoreCompileInputs.cache
+/Users/mateusznowak/Desktop/programowanie_obiektowe/lab_3/lab_3/bin/Debug/netcoreapp3.1/lab_3.deps.json
+/Users/mateusznowak/Desktop/programowanie_obiektowe/lab_3/lab_3/bin/Debug/netcoreapp3.1/lab_3.runtimeconfig.json
+/Users/mateusznowak/Desktop/programowanie_obiektowe/lab_3/lab_3/bin/Debug/netcoreapp3.1/lab_3.runtimeconfig.dev.json
+/Users/mateusznowak/Desktop/programowanie_obiektowe/lab_3/lab_3/bin/Debug/netcoreapp3.1/lab_3.dll
+/Users/mateusznowak/Desktop/programowanie_obiektowe/lab_3/lab_3/bin/Debug/netcoreapp3.1/lab_3.pdb
+/Users/mateusznowak/Desktop/programowanie_obiektowe/lab_3/lab_3/obj/Debug/netcoreapp3.1/lab_3.dll
+/Users/mateusznowak/Desktop/programowanie_obiektowe/lab_3/lab_3/obj/Debug/netcoreapp3.1/lab_3.pdb
+/Users/mateusznowak/Desktop/programowanie_obiektowe/lab_3/lab_3/obj/Debug/netcoreapp3.1/lab_3.genruntimeconfig.cache

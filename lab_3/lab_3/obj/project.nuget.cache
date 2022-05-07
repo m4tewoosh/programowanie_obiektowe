@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4IZpuGLmUTCGZQQBiKuCuAl09Hb8cqxRl9jkHisECIoZSmqUB9ghNfrq24t4RM+e1cz4da2/JaJxyXcKQ2MLug==",
+  "success": true,
+  "projectFilePath": "/Users/mateusznowak/Desktop/programowanie_obiektowe/lab_3/lab_3/lab_3.csproj",
+  "expectedPackageFiles": [
+    "/Users/mateusznowak/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.21/microsoft.netcore.app.host.osx-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

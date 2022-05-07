@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mateusznowak/Desktop/programowanie_obiektowe/lab_3/lab_3/lab_3.csproj": {}
+  },
+  "projects": {
+    "/Users/mateusznowak/Desktop/programowanie_obiektowe/lab_3/lab_3/lab_3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mateusznowak/Desktop/programowanie_obiektowe/lab_3/lab_3/lab_3.csproj",
+        "projectName": "lab_3",
+        "projectPath": "/Users/mateusznowak/Desktop/programowanie_obiektowe/lab_3/lab_3/lab_3.csproj",
+        "packagesPath": "/Users/mateusznowak/.nuget/packages/",
+        "outputPath": "/Users/mateusznowak/Desktop/programowanie_obiektowe/lab_3/lab_3/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mateusznowak/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[3.1.21, 3.1.21]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{F83755DA-B2E1-4BC3-9575-4F21D5D6BD53}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="lab_3/WriterLogger.cs">
+    <Files>
+      <File FileName="lab_3/Program.cs" Line="15" Column="22" />
+      <File FileName="lab_3/FileLogger.cs" />
+      <File FileName="lab_3/WriterLogger.cs" Line="12" Column="53" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.lab__3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
